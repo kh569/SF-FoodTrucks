@@ -33,5 +33,6 @@ The [SF food truck data](https://data.sfgov.org/Permitting/Mobile-Food-Facility-
 
 ###Link to your resume or public profile
 [Github repo](https://github.com/kh569/SF-FoodTrucks)
+
 [Linkedin](http://www.linkedin.com/in/kuoenmichaelhung/)
 
