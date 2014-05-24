@@ -3,11 +3,11 @@ SF-FoodTrucks
 
 It will show all the approved Food trucks located in San Francisco area.
 
-Built by Kuo-En Hung, 5/22/14
+Built by Kuo-En Hung
 
 ###Project Demo:
-[click here] (http://sf-foodtrucks-khung.herokuapp.com) or  
-[http://sf-foodtrucks-khung.herokuapp.com](http://sf-foodtrucks-khung.herokuapp.com)
+[click here] (http://sf-foodtrucks-khung.herokuapp.com) 
+or [http://sf-foodtrucks-khung.herokuapp.com](http://sf-foodtrucks-khung.herokuapp.com)
 
 The [SF food truck data](https://data.sfgov.org/Permitting/Mobile-Food-Facility-Permit/rqzj-sfat) is from the public website [SF data](http://www.datasf.org/). It provides an API for querying JSON data backs.
 
@@ -33,6 +33,5 @@ The [SF food truck data](https://data.sfgov.org/Permitting/Mobile-Food-Facility-
 
 ###Link to your resume or public profile
 [Github repo](https://github.com/kh569/SF-FoodTrucks)
-
 [Linkedin](http://www.linkedin.com/in/kuoenmichaelhung/)
 
