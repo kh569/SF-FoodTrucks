@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ title }}</title>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <style type="text/css">
+    </style>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script type="text/javascript"
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAtJBk_iOr9Qdu_dKNrlmxqGusPQ1THCjY&sensor=true">
+    </script>
+    <script type="text/javascript" src="javascripts/markerclusterer_compiled.js"></script>
+    <script type="text/javascript" src="javascripts/foodtrucks_map.js"></script>
+  </head>
+
+  <body>
+    
+    <div class="app-wrapper">
+
+      <div class="header">
+        <div class="app-title">
+          <h1>{{ title }}</h1>
+        </div>
+        <div class="app-description">{{description}}
+        </div>
+      </div>
+      
+      <div class="total-foodtrucks-wrapper">
+          <div class="foodtrucks-label">Total APPROVED FOOD TRUCKS in San Francisco, CA
+          </div>
+          <div id="foodtrucks-number">--
+          </div>
+      </div>
+      
+      <div id="map-canvas"></div>
+
+    </div>
+
+  </body>
+</html>

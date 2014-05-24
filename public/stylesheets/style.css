@@ -1,0 +1,99 @@
+body{
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	min-width: 900px;
+	height:100%;
+	/*width: 1000px;*/
+}
+
+#map-canvas {
+	position: relative;
+	margin: auto;
+	top:45px;
+	width: 100%;
+	min-width: 850px;
+  	height:600px;
+  	margin: auto;
+}
+
+.app-wrapper{
+	position: relative;
+	margin: auto;
+	/*border:2px solid;
+	/*margin: auto;*/
+	/*min-width: 900px;*/
+}
+.header{
+	position: relative;
+	/*border:1px solid;*/
+	float: left;
+	margin:auto;
+	/*margin-left: auto;*/
+	width:690px;
+	/*margin-left: 5px;*/
+}
+.app-title{
+	position: relative;
+	/*border:1px solid;*/
+	margin-left: 5px;
+}
+
+.app-description{
+	/*border:1px solid;*/
+	position: relative;
+	margin-top: 20px;
+	margin-left: 5px;
+	font-size: 14px;
+	margin-bottom: 20px;
+}
+
+
+
+.total-foodtrucks-wrapper{
+	position: relative;
+	float:right;
+	margin-right: 5px;
+	margin-top: 20px;
+	width:200px;
+	height:100px;
+}
+
+.foodtrucks-label{
+	/*border:1px solid;*/
+	font-size: 12px;
+	text-align: center;
+	color:#FFFFFF;
+	background-color: #000000;
+
+}
+#foodtrucks-number{
+	text-align: center;
+	border:1px solid;
+	font-size: 60px;
+}
+
+
+.info-wrapper {
+	width: 300px;
+  	height: 240px;
+}
+
+
+.foodtruck-info {
+	float: left;
+	position: relative;
+/*  top:15px;
+*/  margin-top: 20px;
+  /*margin-right: 5px;*/
+  	margin-left: 15px;
+}
+
+.foodtruck-applicant {
+	font-size: 30px;
+	font-weight: bold;
+}
+.foodtruck-details {
+	margin-top:10px;
+	/*font-weight: bold;*/
+
+}
+
