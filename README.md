@@ -27,7 +27,7 @@ The [SF food truck data](https://data.sfgov.org/Permitting/Mobile-Food-Facility-
 
 
 ###Future works
-* I would add some function to this app. For example, add a search bar, so user can search for food trucks based on food type, address, zip code. 
+* I would add some functions to this app. For example, add a search bar, so user can search for food trucks based on food, or address, or zip code. 
 * For clean MVC software design purpose, I will use some fornt-end framework, like backbone.js or boostrap
 
 ###Link to your resume or public profile
